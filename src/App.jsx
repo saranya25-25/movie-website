@@ -73,7 +73,7 @@ const App = () => {
   const moviesToShow = showWishlist ? favorites : filteredMovies;
 
   const displayMovies = moviesToShow.slice(0, visibleCount);
-
+console.log("test update working");
   return (
     <div className={darkMode ? "app dark" : "app"}>
 
