@@ -24,6 +24,7 @@ const Header = ({searchTerm,setSearchTerm,sortyear,setSortYear,darkMode,setDarkM
        
     </div>
 </header>
+
 )
   )
 }

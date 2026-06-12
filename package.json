@@ -1,4 +1,6 @@
+
 {
+  "homepage": "https://saranya25-25.github.io/movie-website",
   "name": "movieweb-reactproj",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.6",
