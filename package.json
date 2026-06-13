@@ -1,4 +1,3 @@
-
 {
   "homepage": "https://saranya25-25.github.io/movie-website",
   "name": "movieweb-reactproj",
@@ -14,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "firebase": "^12.14.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "react-router-dom": "^7.17.0"
