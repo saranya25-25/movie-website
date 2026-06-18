@@ -5,7 +5,7 @@ const Header = ({searchTerm,setSearchTerm,sortyear,setSortYear,darkMode,setDarkM
 (
     <header>
     <div class="logo">
-        <h1>🎬 Movie Website</h1>
+        <h1>🎬CineVerse</h1>
     </div>
 
     <div class="header-controls">
